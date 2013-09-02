@@ -1,0 +1,19 @@
+{
+  "name": "bem-core",
+  "version": "1.0.0",
+  "homepage": "https://github.com/bem/bem-core",
+  "authors": [
+    "Sergey Tatarintsev <sevinf@yandex-team.ru>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".bem/cache",
+    "node_modules",
+    "libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bem-pr": "git://github.com/SevInf/bem-pr.git#218c1d44aeec56940aca7d68a982d41de41823c4"
+  }
+}
